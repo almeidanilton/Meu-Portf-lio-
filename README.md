@@ -20,3 +20,5 @@ Projetos que conectam tecnologia com minha experiência prévia na área digital
 
 Full Stack: porque gosto de construir coisas completas — do backend bem estruturado até o frontend intuitivo.
 Dados: porque sempre fui guiado por métricas, organização e tomada de decisão baseada em informação.
+
+É Simples mais com tempo vamos melhorando! Abraço. 
